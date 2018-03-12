@@ -12,10 +12,10 @@ def mul(a,b):
     return a * b    
 
 def div(a,b):
-    return a/b
+    return a / b
 
 if __name__ == '__main__' :
-    a = int(input("print the values :"))
+    a = int(input("enter your value :"))
     b = int(input("enter your value :"))   
 
     print(add(a,b))
